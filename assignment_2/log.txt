@@ -1,0 +1,51 @@
+hotdogs:10
+burgers:10
+capacity:5
+hotdog makers:2
+burger makers:2
+hotdog packers:2
+burger packers:2
+hm1 puts hotdog id:1
+hm0 puts hotdog id:0
+hc0 gets hotdog id:1 from hm1 and id:0 from hm0
+hm0 puts hotdog id:2
+hm1 puts hotdog id:3
+bm1 puts burger id:0
+bm0 puts burger id:1
+hc1 gets hotdog id:2 from hm0 and id:3 from hm1
+hm0 puts hotdog id:5
+bc1 gets burger id:0 from bm1
+hm1 puts hotdog id:4
+bc0 gets burger id:1 from bm0
+hc0 gets hotdog id:5 from hm0 and id:4 from hm1
+hm0 puts hotdog id:6
+hm1 puts hotdog id:7
+bm1 puts burger id:2
+bm0 puts burger id:3
+hc1 gets hotdog id:6 from hm0 and id:7 from hm1
+hm1 puts hotdog id:8
+hm0 puts hotdog id:9
+bc1 gets burger id:2 from bm1
+bc0 gets burger id:3 from bm0
+hc0 gets hotdog id:8 from hm1 and id:9 from hm0
+bm1 puts burger id:4
+bm0 puts burger id:5
+bc1 gets burger id:4 from bm1
+bc0 gets burger id:5 from bm0
+bm1 puts burger id:6
+bm0 puts burger id:7
+bc0 gets burger id:6 from bm1
+bc1 gets burger id:7 from bm0
+bm1 puts burger id:8
+bm0 puts burger id:9
+bc1 gets burger id:8 from bm1
+bc0 gets burger id:9 from bm0
+summary:
+bm0 makes 5
+bm1 makes 5
+hm0 makes 5
+hm1 makes 5
+bc0 packs 5
+bc1 packs 5
+hc0 packs 6
+hc1 packs 4
