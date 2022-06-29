@@ -1,6 +1,6 @@
 ## CS205_operating_system_concepts_with_android
 
-#### Assignment 1
+## Assignment 1
 - [cskang.2020.asgn1.c](https://github.com/cskang0121/cs205-operating-system-concepts-with-android/blob/main/assignment_1/cskang.2020.asgn1.c)
 
 This project focuses on the concept of process management using C Programming Language, which is able to run on terminal. Some features and arguments of this application are as follows : 
@@ -12,7 +12,7 @@ This project focuses on the concept of process management using C Programming La
 - ```list``` : List all the processes by: PID, state, priority. Use the following mapping to represent the states – 0: running, 1: ready, 2: stopped, 3: terminated
 - ```exit``` : Terminate all child processes if they have not yet been terminated, and exit from parent process
 
-#### Assignment 2
+## Assignment 2
 - [KANG CHIN SHEN_CS205_assignment2](https://github.com/cskang0121/cs205-operating-system-concepts-with-android/tree/main/assignment_2)
 
 This project focuses on the concept of concurrency, multi-threaded programming and other OS concepts such as synchronization, mutual exclusion through Java concurrency programming.
@@ -20,7 +20,7 @@ This project focuses on the concept of concurrency, multi-threaded programming a
 The main thread should takes in parameters N, M, K, W, X, Y, Z where N is the number of hotdogs to make, M is the number of burgers to make, K is the number of slots in the common pool, W is the number of hotdog makers, X is the number of burger makers, Y is the number of hotdog packers, Z is the number of burger packers. Constraints: 1 < N, M < 1000, 1 < K < 100, 1 < W, X, Y, Z < 50. Also, N is an even number.
 
 
-#### Assignment 3
+## Assignment 3
 - [KANG CHIN SHEN_CS205_assignment3](https://github.com/cskang0121/cs205-operating-system-concepts-with-android/tree/main/assignment_3)
 
 This project focuses on Android development environment. Various Android components including Activities, Services,
