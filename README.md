@@ -1,7 +1,7 @@
 # Oerating System Concepts with Android - Assignment Description
 
 ## Assignment 1
-[cskang.2020.asgn1.c](https://github.com/cskang0121/cs205-operating-system-concepts-with-android/blob/main/assignment_1/cskang.2020.asgn1.c)
+[cskang.2020.asgn1.c](https://github.com/cskang0121/operating-system-concepts-with-android/blob/main/assignment_1/cskang.2020.asgn1.c)
 
 This project focuses on the concept of process management using C Programming Language, which is able to run on terminal. Some features and arguments of this application are as follows : 
 
@@ -13,7 +13,7 @@ This project focuses on the concept of process management using C Programming La
 - ```exit``` : Terminate all child processes if they have not yet been terminated, and exit from parent process
 
 ## Assignment 2
-[KANG CHIN SHEN_CS205_assignment2](https://github.com/cskang0121/cs205-operating-system-concepts-with-android/tree/main/assignment_2)
+[assignment2](https://github.com/cskang0121/operating-system-concepts-with-android/tree/main/assignment_2)
 
 This project focuses on the concept of concurrency, multi-threaded programming and other OS concepts such as synchronization, mutual exclusion through Java concurrency programming.
 
@@ -21,7 +21,7 @@ The main thread should takes in parameters N, M, K, W, X, Y, Z where N is the nu
 
 
 ## Assignment 3
-[KANG CHIN SHEN_CS205_assignment3](https://github.com/cskang0121/cs205-operating-system-concepts-with-android/tree/main/assignment_3)
+[assignment3](https://github.com/cskang0121/operating-system-concepts-with-android/tree/main/assignment_3)
 
 This project focuses on Android development environment. Various Android components including Activities, Services,
 Content Providers, Broadcast Receivers and Intents were used to develop the software.
