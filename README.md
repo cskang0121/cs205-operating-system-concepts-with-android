@@ -1,4 +1,4 @@
-# CS205-operating-system-concepts-with-android (Assignment Description)
+# Oerating System Concepts with Android (Assignment Description)
 
 ## Assignment 1
 [cskang.2020.asgn1.c](https://github.com/cskang0121/cs205-operating-system-concepts-with-android/blob/main/assignment_1/cskang.2020.asgn1.c)
