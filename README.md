@@ -1,4 +1,4 @@
-## CS205 Operating System Concepts With Android
+## SMU CS205 Operating System Concepts With Android
 
 This repository contains my solutions for a course in operating system concepts with Android environment. The course not only focuses on the characteristics of major operating systems, but also ensures students to be equipped with the knowledge of using efficient algorithms for the functionalities of operating systems and able to perform system programming.
 
